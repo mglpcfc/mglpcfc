@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🔭 Miguel Pacifico
 
-<!--
-**mglpcfc/mglpcfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-End`**
 
-Here are some ideas to get you started:
+Desenvolvedor sênior especializado em C#, ASP.NET, PL/SQL e bancos de dados Oracle. Experiente em criar soluções inovadoras e escaláveis que agregam valor aos negócios. Apaixonado por tecnologia, estou sempre em busca de aprimorar habilidades e aprender novas ferramentas para otimizar o desenvolvimento de sistemas e melhorar a performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Senior developer specialized in C#, ASP.NET, PL/SQL, and Oracle databases. Experienced in creating innovative and scalable solutions that drive business value. Passionate about technology, I am always looking to enhance my skills and learn new tools to optimize system development and improve performance.
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,ts,html,css,dotnet,cs,nodejs,mysql,postgres,php,laravel,vscode" />
+  </a>
+</p>
