@@ -13,6 +13,6 @@ Senior developer specialized in C#, ASP.NET, PL/SQL, and Oracle databases. Exper
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,html,css,dotnet,cs,nodejs,mysql,postgres,php,laravel,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,html,css,dotnet,cs,nodejs,postgres,php,vscode" />
   </a>
 </p>
